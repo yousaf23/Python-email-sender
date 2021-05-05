@@ -13,7 +13,7 @@ Subject:Automated Python Email
 This is an automated email sent from python!
 
 Regards,
-Yousaf Irshad
+____________
 """
 
 context = ssl.create_default_context()
